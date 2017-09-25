@@ -17,6 +17,8 @@ iris = pd.read_csv("C:\Desktop\Iris.csv")
 
 iris.head()
 
+![1](https://user-images.githubusercontent.com/21111859/30835290-981a33aa-a225-11e7-9121-49bb5111d538.png)
+
 iris.tail()
 
 #Describe kind of works as summary in R 
