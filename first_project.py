@@ -44,7 +44,8 @@ iris["Species"].value_counts()
 
  # We'll use this to make a scatterplot of the Iris features.
 
-my_scatter = iris.plot(kind="scatter", x="SepalLengthCm", y="SepalWidthCm", title= "Scatter plot for sepal length vs width", fontsize=12, colormap=False, figsize=(7,7))
+my_scatter = iris.plot(kind="scatter", x="SepalLengthCm", y="SepalWidthCm", title= "Scatter plot for sepal length vs width", +
+                       fontsize=12, colormap=False, figsize=(7,7))
 
  #The result for this line of code can be viewed here : https://tinyurl.com/y8dz386n
 
