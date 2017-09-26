@@ -51,3 +51,5 @@ This data differs from the data presented in Fishers article (identified by Stev
 
 ## Kernel used as reference for this project: 
 [Ben Hammer](https://www.kaggle.com/benhamner/python-data-visualizations), IRIS Dataset.  
+
+*P.S. Though I have specifically given links to results / graphs after each line of code, all the results / graphs can be found here: https://tinyurl.com/y8usb5m7
