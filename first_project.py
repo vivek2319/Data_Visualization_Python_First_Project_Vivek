@@ -159,7 +159,8 @@ radviz(iris.drop("Id", axis=1), "Species")
  #The result for this line of code can be viewed here : https://tinyurl.com/y968dt3b
 
  #Violin plots are great for visualizing distributions. However, we may want to simply display #each point.
- #That's where the swarm plot comes in. This visualization will show each point, while "stacking" those with similar values:
+ #That's where the swarm plot comes in. This visualization will show each point, while "stacking" those with 
+ #similar values:
 
 
 type_of_colors=['#78C850',  # Grass 
